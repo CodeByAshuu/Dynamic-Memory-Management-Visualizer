@@ -7,5 +7,6 @@ export function Button({ children, className, ...props }) {
             {...props}
         >
             {children}
+        </button>
     );
 }
