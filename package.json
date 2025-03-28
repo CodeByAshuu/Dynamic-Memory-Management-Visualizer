@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.15",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "react-router-dom": "^7.4.0",
+    "react-scripts": "^5.0.1",
+    "recharts": "^2.15.1",
+    "tailwindcss": "^4.0.15"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "tailwind": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
