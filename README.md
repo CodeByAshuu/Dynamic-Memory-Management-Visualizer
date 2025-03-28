@@ -47,7 +47,7 @@ DynamicMemoryManagementVisualizer/
    npm install
    ```
    ```bash
-   npm install recharts tailwindcss postcss autoprefixer
+   npm install react-router-dom recharts tailwindcss postcss autoprefixer
    ```
    ```bash
    npm install react-scripts --save
@@ -60,8 +60,12 @@ DynamicMemoryManagementVisualizer/
    ```bash
    npm start
    ```
+## Langauges Used
+- JavaScript
+- HTML
+- CSS
 
-## Technologies Used
+## Framework & Library Used
 - React.js
 - Tailwind CSS
 - Recharts
