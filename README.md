@@ -33,8 +33,9 @@ DynamicMemoryManagementVisualizer/
 
 ## Screenshot
 
-![Memory Management Simulation](/assets/1st.png)
-![Memory Management Simulation](/assets/2nd.png)
+![Memory Management Simulation](./1st.png.png)
+![Memory Management Simulation](./2nd.png.png)
+![Memory Management Simulation](./3rd.png.png)
 
 ## Installation
 1. Clone the repository:
